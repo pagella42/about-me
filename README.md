@@ -1,6 +1,6 @@
 ## About me
 
-I am a full stack developer with more then 4 years of experience.
+I am a full stack software engineer with more then 4 years of experience.
 My skills include React Native, React, Node js, Mongo and others.
 
 **I am currently the frontend lead at Bettervet** where we reinvent the vet care industry by offering telemedicine through an app.
